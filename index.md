@@ -4,7 +4,14 @@ title: Tae Hong Xi
 ---
 
 <style>
-  /* This part makes the photo a circle and floats it left */
+  header { display: none !important; }
+  
+  section {
+    width: 100% !important;
+    max-width: 800px !important;
+    margin: 0 auto !important;
+  }
+
   .profile-pic {
     width: 160px;
     height: 160px;
@@ -12,18 +19,11 @@ title: Tae Hong Xi
     object-fit: cover;
     float: left;
     margin: 0 25px 20px 0;
-    border: 2px solid #eee;
-  }
-
-  /* This hides the default GitHub sidebar name/link you wanted gone */
-  header { 
-    display: none !important; 
-  }
-  
-  /* This makes the main content area wider since we hid the sidebar */
-  section {
-    width: 100% !important;
-    max-width: 800px !important;
+    /* This adds a tiny smooth edge to hide pixel noise */
+    border: 1px solid rgba(0,0,0,0.05);
+    /* This forces the browser to use high-quality scaling */
+    image-rendering: -webkit-optimize-contrast;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   }
 </style>
 
@@ -44,7 +44,7 @@ I am a PhD student at the **[College of Computing and Data Science (CCDS)](https
 ---
 
 ## Publications
-* **Towards Privacy-Guaranteed Label Unlearning in Vertical Federated Learning: Few-Shot Forgetting Without Disclosure** Hanlin Gu*, **Hong Xi Tae***, Lixin Fan, Chee Seng Chan *International Conference on Learning Representations (ICLR)*, 2026. 
+* **Towards Privacy-Guaranteed Label Unlearning in Vertical Federated Learning: Few-Shot Forgetting Without Disclosure** Hanlin Gu\*, **Hong Xi Tae**\*, Lixin Fan, Chee Seng Chan *International Conference on Learning Representations (ICLR)*, 2026. 
   [Paper Link](https://openreview.net/forum?id=G1JdmhkicJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [Code](https://github.com/bryanhx/Towards-Privacy-Guaranteed-Label-Unlearning-in-Vertical-Federated-Learning)
 
 ---
