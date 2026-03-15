@@ -1,3 +1,34 @@
+---
+layout: default
+title: Tae Hong Xi
+---
+
+<style>
+  /* This part makes the photo a circle and floats it left */
+  .profile-pic {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: left;
+    margin: 0 25px 20px 0;
+    border: 2px solid #eee;
+  }
+
+  /* This hides the default GitHub sidebar name/link you wanted gone */
+  header { 
+    display: none !important; 
+  }
+  
+  /* This makes the main content area wider since we hid the sidebar */
+  section {
+    width: 100% !important;
+    max-width: 800px !important;
+  }
+</style>
+
+<img src="photo.jpg" class="profile-pic" alt="Tae Hong Xi">
+
 # Tae Hong Xi
 
 <img src="photo.jpg" alt="Hong Xi Tae" width="160" height="160" style="border-radius: 50%; object-fit: cover; float: left; margin-right: 20px; margin-bottom: 20px;">
