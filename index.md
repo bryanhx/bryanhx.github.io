@@ -1,9 +1,9 @@
 
 # Tae Hong Xi
 
-I am a PhD student at the **[College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)** advised by [Prof. Wei Yang Bryan Lim](https://sites.google.com/view/wyb/home). My research interests include **AI Safety** and **Machine Unlearning**.
+I am a PhD student at the **[College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)** advised by **[Prof. Wei Yang Bryan Lim](https://sites.google.com/view/wyb/home)**. My research interests include **AI Safety** and **Machine Unlearning**.
 
-Previously, I completed my Master's degree at **Universiti Malaya** (2023–2025).
+Previously, I completed my Master's degree at **[Universiti Malaya](https://www.um.edu.my/)** advised by **[Prof. Chan Chee Seng](http://cs-chan.com/)** (2023–2025).
 
 [Email](hongxi001@e.ntu.edu.sg) / [GitHub](https://github.com/bryanhx) / [LinkedIn](https://www.linkedin.com/in/hong-xi-tae-a7a062199/)
 
