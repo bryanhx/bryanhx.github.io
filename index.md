@@ -44,7 +44,7 @@ I am a PhD student at the **[College of Computing and Data Science (CCDS)](https
 ---
 
 ## Publications
-* **Towards Privacy-Guaranteed Label Unlearning in Vertical Federated Learning: Few-Shot Forgetting Without Disclosure** Hanlin Gu\*, **Hong Xi Tae**\*, Lixin Fan, Chee Seng Chan *International Conference on Learning Representations (ICLR)*, 2026. 
+* **Towards Privacy-Guaranteed Label Unlearning in Vertical Federated Learning: Few-Shot Forgetting Without Disclosure** Hanlin Gu&#42, **Hong Xi Tae**&#42, Lixin Fan, Chee Seng Chan *International Conference on Learning Representations (ICLR)*, 2026. 
   [Paper Link](https://openreview.net/forum?id=G1JdmhkicJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [Code](https://github.com/bryanhx/Towards-Privacy-Guaranteed-Label-Unlearning-in-Vertical-Federated-Learning)
 
 ---
