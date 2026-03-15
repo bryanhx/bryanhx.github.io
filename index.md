@@ -1,11 +1,7 @@
----
-layout: default
-title: Tae Hong Xi
----
 
 # Tae Hong Xi
 
-I am a PhD student at the **College of Computing and Data Science (CCDS), Nanyang Technological University (NTU)**. My research interests include **AI Safety** and **Machine Unlearning**.
+I am a PhD student at the **[College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)** advised by [Prof. Wei Yang Bryan Lim](https://sites.google.com/view/wyb/home). My research interests include **AI Safety** and **Machine Unlearning**.
 
 Previously, I completed my Master's degree at **Universiti Malaya** (2023–2025).
 
