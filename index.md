@@ -27,7 +27,7 @@ title: Tae Hong Xi
   }
 </style>
 
-<img src="photo.jpg" class="profile-pic" alt="Tae Hong Xi">
+<img src="photo.jpeg" class="profile-pic" alt="Tae Hong Xi">
 
 # Tae Hong Xi
 
