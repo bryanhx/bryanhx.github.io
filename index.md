@@ -52,6 +52,6 @@ I am a PhD student at the **[College of Computing and Data Science (CCDS)](https
 ## Academic Qualification
 * **[2026-2030(expected)]** Ph.D, Nanyang Technological University
 * **[2023-2025]** Master of Computer Science, Universiti Malaya
-* **[2019-2023]** Barchelor of Computer Science, University of Science Malaysia
+* **[2019-2023]** Bachelor of Computer Science (Honours), University of Science Malaysia
 
 ---
