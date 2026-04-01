@@ -48,3 +48,10 @@ I am a PhD student at the **[College of Computing and Data Science (CCDS)](https
   [Paper Link](https://openreview.net/forum?id=G1JdmhkicJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [Code](https://github.com/bryanhx/Towards-Privacy-Guaranteed-Label-Unlearning-in-Vertical-Federated-Learning)
 
 ---
+
+## Academic Qualification
+* **[2026-2030(expected)]** Ph.D, Nanyang Technological University
+* **[2023-2025]** Master of Computer Science, Universiti Malaya
+* **[2019-2023]** Barchelor of Computer Science, University of Science Malaysia
+
+---
