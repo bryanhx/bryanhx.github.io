@@ -31,7 +31,7 @@ title: Tae Hong Xi
 
 # Tae Hong Xi
 
-I am a PhD student at the **[College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)** advised by **[Prof. Wei Yang Bryan Lim](https://sites.google.com/view/wyb/home)**. My research interests include **AI Safety** and **Machine Unlearning**. Previously, I completed my Master's degree at **[Universiti Malaya](https://www.um.edu.my/)** advised by **[Prof. Chan Chee Seng](http://cs-chan.com/)** (2023–2025).
+I am a PhD student at the **[College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)** advised by **[Prof. Wei Yang Bryan Lim](https://sites.google.com/view/wyb/home)**. My research interests include **AI Safety** and **Machine Unlearning**. Previously, I completed my Master's degree at **[Universiti Malaya](https://www.um.edu.my/)** advised by **[Prof. Chan Chee Seng](http://cs-chan.com/)** (2023–2025). I completed my Bachelor of Computer Science at the **[University of Science Malaysia](https://www.usm.my/en/)** (2019-2023).
 
 [Email](mailto:hongxi001@e.ntu.edu.sg) / [GitHub](https://github.com/bryanhx) / [LinkedIn](https://www.linkedin.com/in/hong-xi-tae-a7a062199/) / [Google Scholar](https://scholar.google.com/citations?user=BGvzjkAAAAAJ&hl=zh-CN)
 
